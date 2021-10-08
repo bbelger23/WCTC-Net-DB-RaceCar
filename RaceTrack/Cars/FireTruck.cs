@@ -18,7 +18,5 @@ namespace RaceTrack.RaceTrack.Cars
         {
             Console.WriteLine($"The {Name} fires right up");
         }
-
-        public override void 
     }
 }
